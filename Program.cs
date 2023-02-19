@@ -1,7 +1,6 @@
 ﻿//Michali Zakutinsky
 //T00399092
-//Michali Zakutinsky
-//T00399092
+//https://github.com/michalizak/368_HW_3
 namespace Program3
 {
     class Program
